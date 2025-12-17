@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using LibraryAPI.Models;
 using LibraryAPI.Data;
+using LibraryAPI.Interfaces;
+using LibraryAPI.Repositories;
 
 namespace LibraryAPI
 {
@@ -12,6 +14,12 @@ namespace LibraryAPI
 
             builder.Services.AddDbContext<LibraryDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+            builder.Services.AddScoped(typeof(IRepository<>), typeof(RepositoryBase<>));
+            builder.Services.AddScoped<IBookRepository, BookRepository>();
+            builder.Services.AddScoped<IAuthorRepository, AuthorRepository>();
+            builder.Services.AddScoped<IUserRepository, UserRepository>();
+            builder.Services.AddScoped<ILoanRepository, LoanRepository>();
 
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
