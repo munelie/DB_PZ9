@@ -3,52 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\LibraryAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\controllers\\testrepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\testrepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\services\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\services\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\services\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\services\\iloanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\interfaces\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\interfaces\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,16 +99,80 @@
       "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\interfaces\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\interfaces\\iloanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\dto\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\dto\\loandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\dto\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\dto\\genredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\dto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\dto\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\migrations\\20251217140655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\migrations\\20251217140655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\controllers\\testrepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\testrepositorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\migrations\\20251217140655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\migrations\\20251217140655_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{169D9AC9-60E3-44E4-91BE-9A5A8BE49540}|LibraryAPI\\LibraryAPI.csproj|c:\\users\\user\\source\\repos\\libraryapi\\libraryapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -98,7 +186,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,93 +194,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestRepositoryController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\TestRepositoryController.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\TestRepositoryController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\TestRepositoryController.cs",
-              "RelativeToolTip": "LibraryAPI\\Controllers\\TestRepositoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\IBookService.cs",
+              "RelativeToolTip": "LibraryAPI\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T15:38:09.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoanRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\LoanRepository.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Repositories\\LoanRepository.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\LoanRepository.cs",
-              "RelativeToolTip": "LibraryAPI\\Repositories\\LoanRepository.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T15:28:25.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "LibraryAPI\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T15:28:10.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\AuthorRepository.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Repositories\\AuthorRepository.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\AuthorRepository.cs",
-              "RelativeToolTip": "LibraryAPI\\Repositories\\AuthorRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T15:27:56.457Z",
+              "WhenOpened": "2025-12-19T10:45:15.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "LibraryAPI\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA4wDgAAAAAAAAAAAAAAA==",
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\IGenreService.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Services\\IGenreService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\IGenreService.cs",
+              "RelativeToolTip": "LibraryAPI\\Services\\IGenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T15:27:35.593Z",
+              "WhenOpened": "2025-12-19T12:34:13.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Repositories\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\RepositoryBase.cs",
-              "RelativeToolTip": "LibraryAPI\\Repositories\\RepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Title": "ILoanService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\ILoanService.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Services\\ILoanService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\ILoanService.cs",
+              "RelativeToolTip": "LibraryAPI\\Services\\ILoanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T15:27:18.166Z",
+              "WhenOpened": "2025-12-19T12:33:10.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ILoanRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\ILoanRepository.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Interfaces\\ILoanRepository.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\ILoanRepository.cs",
-              "RelativeToolTip": "LibraryAPI\\Interfaces\\ILoanRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\IUserService.cs",
+              "RelativeToolTip": "LibraryAPI\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T15:24:40.779Z",
+              "WhenOpened": "2025-12-19T12:13:11.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\LoanService.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Services\\LoanService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\LoanService.cs",
+              "RelativeToolTip": "LibraryAPI\\Services\\LoanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:49:22.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "LibraryAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:47:21.436Z",
               "EditorCaption": ""
             },
             {
@@ -203,14 +278,261 @@
               "RelativeDocumentMoniker": "LibraryAPI\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Program.cs",
               "RelativeToolTip": "LibraryAPI\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T13:39:13.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\appsettings.json",
+              "RelativeToolTip": "LibraryAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T10:10:07.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Services\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\IAuthorService.cs",
+              "RelativeToolTip": "LibraryAPI\\Services\\IAuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:12:32.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Services\\GenreService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\GenreService.cs",
+              "RelativeToolTip": "LibraryAPI\\Services\\GenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:52:28.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\BookService.cs",
+              "RelativeToolTip": "LibraryAPI\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:45:57.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Services\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Services\\AuthorService.cs",
+              "RelativeToolTip": "LibraryAPI\\Services\\AuthorService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:46:13.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LibraryAPI\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:28:10.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "LibraryAPI\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:27:18.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Repositories\\LoanRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\LoanRepository.cs",
+              "RelativeToolTip": "LibraryAPI\\Repositories\\LoanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:28:25.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Repositories\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\GenreRepository.cs",
+              "RelativeToolTip": "LibraryAPI\\Repositories\\GenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:37:33.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LibraryAPI\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:27:35.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "LibraryAPI\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:27:56.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\User.cs",
+              "RelativeToolTip": "LibraryAPI\\Models\\User.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T10:08:26.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Models\\Loan.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Loan.cs",
+              "RelativeToolTip": "LibraryAPI\\Models\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T10:08:43.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Models\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\LibraryDbContext.cs",
+              "RelativeToolTip": "LibraryAPI\\Models\\LibraryDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T10:09:12.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Genre.cs",
+              "RelativeToolTip": "LibraryAPI\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T10:07:25.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T10:07:46.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Author.cs",
+              "RelativeToolTip": "LibraryAPI\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T10:06:59.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "LibraryAPI\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:48:40.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "LibraryAPI\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:44:13.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "LibraryAPI\\Interfaces\\IUserRepository.cs",
@@ -223,20 +545,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IAuthorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\IAuthorRepository.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Interfaces\\IAuthorRepository.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\IAuthorRepository.cs",
-              "RelativeToolTip": "LibraryAPI\\Interfaces\\IAuthorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 27,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "LibraryAPI\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T15:23:43.862Z",
+              "WhenOpened": "2025-12-17T15:17:58.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
+              "Title": "ILoanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\ILoanRepository.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Interfaces\\ILoanRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\ILoanRepository.cs",
+              "RelativeToolTip": "LibraryAPI\\Interfaces\\ILoanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:24:40.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Interfaces\\IGenreRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\IGenreRepository.cs",
+              "RelativeToolTip": "LibraryAPI\\Interfaces\\IGenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:37:05.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\IBookRepository.cs",
               "RelativeDocumentMoniker": "LibraryAPI\\Interfaces\\IBookRepository.cs",
@@ -249,117 +597,149 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "LibraryAPI\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 31,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Interfaces\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Interfaces\\IAuthorRepository.cs",
+              "RelativeToolTip": "LibraryAPI\\Interfaces\\IAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T15:17:58.788Z",
+              "WhenOpened": "2025-12-17T15:23:43.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 32,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "LibraryAPI\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:35:46.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoanDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\DTO\\LoanDTO.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\DTO\\LoanDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\DTO\\LoanDTO.cs",
+              "RelativeToolTip": "LibraryAPI\\DTO\\LoanDTO.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA9wBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:36:43.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GenreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\DTO\\GenreDTO.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\DTO\\GenreDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\DTO\\GenreDTO.cs",
+              "RelativeToolTip": "LibraryAPI\\DTO\\GenreDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T12:36:07.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\DTO\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\DTO\\BookDTO.cs",
+              "RelativeToolTip": "LibraryAPI\\DTO\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:38:00.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\DTO\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\DTO\\AuthorDTO.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\DTO\\AuthorDTO.cs",
+              "RelativeToolTip": "LibraryAPI\\DTO\\AuthorDTO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA6wAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:38:41.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\DTO\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\DTO\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\DTO\\ApiResponse.cs",
+              "RelativeToolTip": "LibraryAPI\\DTO\\ApiResponse.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:50:27.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "DataSeeder.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Data\\DataSeeder.cs",
               "RelativeDocumentMoniker": "LibraryAPI\\Data\\DataSeeder.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Data\\DataSeeder.cs",
               "RelativeToolTip": "LibraryAPI\\Data\\DataSeeder.cs",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAQwLAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAALUAAAAAAAAAAAAQwLAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T14:52:29.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "LibraryAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\appsettings.json",
-              "RelativeToolTip": "LibraryAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-12T10:10:07.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LibraryDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\LibraryDbContext.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Models\\LibraryDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\LibraryDbContext.cs",
-              "RelativeToolTip": "LibraryAPI\\Models\\LibraryDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T10:09:12.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Loan.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Loan.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Models\\Loan.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Loan.cs",
-              "RelativeToolTip": "LibraryAPI\\Models\\Loan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T10:08:43.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\User.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\User.cs",
-              "RelativeToolTip": "LibraryAPI\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T10:08:26.522Z",
+              "WhenOpened": "2025-12-17T14:52:29.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Models\\Author.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Author.cs",
-              "RelativeToolTip": "LibraryAPI\\Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 39,
+              "Title": "TestRepositoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\TestRepositoryController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\TestRepositoryController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\TestRepositoryController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\TestRepositoryController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADwv10AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T10:06:59.663Z"
+              "WhenOpened": "2025-12-17T15:38:09.37Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Book.cs",
-              "RelativeToolTip": "LibraryAPI\\Models\\Book.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwB8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 40,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAwwAEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T10:07:46.728Z"
+              "WhenOpened": "2025-12-19T10:51:09.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Genre.cs",
-              "RelativeDocumentMoniker": "LibraryAPI\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Models\\Genre.cs",
-              "RelativeToolTip": "LibraryAPI\\Models\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 41,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T10:07:25.94Z"
+              "WhenOpened": "2025-12-21T21:39:57.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 43,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "LibraryAPI\\appsettings.Development.json",
@@ -371,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 42,
               "Title": "20251217140655_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\LibraryAPI\\LibraryAPI\\Migrations\\20251217140655_InitialCreate.cs",
               "RelativeDocumentMoniker": "LibraryAPI\\Migrations\\20251217140655_InitialCreate.cs",

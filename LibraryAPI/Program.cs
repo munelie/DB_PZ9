@@ -3,6 +3,9 @@ using LibraryAPI.Models;
 using LibraryAPI.Data;
 using LibraryAPI.Interfaces;
 using LibraryAPI.Repositories;
+using LibraryAPI.Mapping;
+using LibraryAPI.Middleware;
+using LibraryAPI.Services;
 
 namespace LibraryAPI
 {
@@ -21,11 +24,22 @@ namespace LibraryAPI
             builder.Services.AddScoped<IUserRepository, UserRepository>();
             builder.Services.AddScoped<ILoanRepository, LoanRepository>();
 
+            builder.Services.AddScoped<IGenreRepository, GenreRepository>();
+
+            builder.Services.AddScoped<IBookService, BookService>();
+            builder.Services.AddScoped<IAuthorService, AuthorService>();
+            builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<ILoanService, LoanService>();
+
+            builder.Services.AddAutoMapper(typeof(MappingProfile));
+
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
+
+            app.UseMiddleware<ExceptionMiddleware>();
 
             using (var scope = app.Services.CreateScope())
             {
